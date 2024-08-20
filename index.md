@@ -7,4 +7,4 @@ Currently, I'm interested in cybersecurity and I'm planning to pursue a Master d
 
 This is a temporary blog for me to record my life and thoughts (may be too late?). Thank you for your watching and if you have any suggestion please contact me without any hesitation.
 
-![Example Image](ckj.jpg)
+<img src="ckj.jpg" height="200" witdth="300" />
