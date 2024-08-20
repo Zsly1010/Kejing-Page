@@ -1,4 +1,4 @@
 ---
-title: Hello there! This is Kejing Chang
+title: Welcome to my blog! This is Kejing Chang
 ---
 
