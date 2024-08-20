@@ -10,5 +10,5 @@ This is a temporary blog for me to record my life and thoughts (may be too late?
 Here is my [CV](cv_e.pdf)
 
 <img src="ckj.jpg" height="200" witdth="300" style="margin-left: -320px; margin-top: -220px;">
-<div style="position: relative; left: -370px; top: -80px;">Email: kejing.chang21@student.xjtlu.edu.cn</div>
-<div style="position: relative; left: -370px; top: -80px;">Phone number: 18180875566</div>
+<div style="position: relative; left: -370px; top: -40px;">Email: kejing.chang21@student.xjtlu.edu.cn</div>
+<div style="position: relative; left: -370px; top: -40px;">Phone number: 18180875566</div>
